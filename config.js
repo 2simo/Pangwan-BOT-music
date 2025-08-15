@@ -1,10 +1,10 @@
 
 
 module.exports = {
-  TOKEN: "mongodb+srv://mohamedelhaoury5:simopangwan@pangwan.vhjidwq.mongodb.net/?retryWrites=true&w=majority&appName=Pangwan",
+  TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  mongodbUri : "mongodb+srv://mohamedelhaoury5:simopangwan@pangwan.vhjidwq.mongodb.net/?retryWrites=true&w=majority&appName=Pangwan",
   spotifyClientId : "",
   spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
